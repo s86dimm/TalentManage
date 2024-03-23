@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1e0eb82e97c50210a711f6fce053af7d" label="Skill" max_length="40" name="x_535429_talent_ma_skill" type="collection">
+        <element label="Active" max_length="255" name="active" type="boolean"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Name" max_length="200" name="name" type="string"/>
+        <element label="Sub Category" max_length="200" name="sub_category" type="string"/>
+    </element>
+</database>

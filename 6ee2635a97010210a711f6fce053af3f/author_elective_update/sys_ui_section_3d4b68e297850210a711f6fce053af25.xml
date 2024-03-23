@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="3d4b68e297850210a711f6fce053af25" sys_domain="global" table="x_535429_talent_ma_hiring_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>specify_reason_for_hiring</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:04:22</sys_created_on>
+            <sys_id>fd4b68e297850210a711f6fce053af5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">3d4b68e297850210a711f6fce053af25</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:04:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_535429_talent_ma_hiring_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:04:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d4b68e297850210a711f6fce053af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_535429_talent_ma_hiring_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+            <sys_update_name>sys_ui_section_3d4b68e297850210a711f6fce053af25</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:04:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</application>
+        <file_path/>
+        <instance_id>7550774d1b3af114ba5ceb9b2d4bcb1d</instance_id>
+        <instance_name>dev226364</instance_name>
+        <name>sys_ui_section_3d4b68e297850210a711f6fce053af25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="3d4b68e297850210a711f6fce053af25" sys_domain="global" table="x_535429_talent_ma_hiring_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>specify_reason_for_hiring</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 19:04:22</sys_created_on><sys_id>fd4b68e297850210a711f6fce053af5c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">3d4b68e297850210a711f6fce053af25</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 19:04:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_535429_talent_ma_hiring_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 19:04:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d4b68e297850210a711f6fce053af25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_535429_talent_ma_hiring_request</sys_name><sys_overrides/><sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package><sys_policy/><sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope><sys_update_name>sys_ui_section_3d4b68e297850210a711f6fce053af25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 19:04:21</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-27247019</payload_hash>
+        <record_name>Hiring Request</record_name>
+        <reverted_from/>
+        <source>315cd4ee97050210a711f6fce053afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 19:04:22</sys_created_on>
+        <sys_id>7d4b68e297850210a711f6fce053af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e678cc4610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 19:04:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f14b68e2b685021043fe9620e362395e</update_guid>
+        <update_guid_history>f14b68e2b685021043fe9620e362395e:-27247019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 19:36:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>091598fd708041b49432dd0b883960c1</sys_id>
+        <sys_metadata>3d4b68e297850210a711f6fce053af25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_parent display_value="Hiring Request">eb8c906297450210a711f6fce053af25</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_scope_delete display_value="">6b5211a331e645749ad8ca02981ee1e4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3d4b68e297850210a711f6fce053af25</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3d4b68e297850210a711f6fce053af25">7d4b68e297850210a711f6fce053af5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 19:36:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

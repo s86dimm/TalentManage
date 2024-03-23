@@ -1,5 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="eb8c906297450210a711f6fce053af25" label="Hiring Request" max_length="40" name="x_535429_talent_ma_hiring_request" type="collection">
+        <element label="Additional Approvals" max_length="1024" name="additional_approvals" reference="sys_user" type="glide_list"/>
+        <element label="Any Special Instructions" max_length="4000" name="any_special_instructions" type="string"/>
+        <element choice="1" label="Approval Status" max_length="40" name="approval_status" type="choice">
+            <choice/>
+        </element>
+        <element label="Benefits Package" max_length="1024" name="benefits_package" reference="sys_user" type="glide_list"/>
+        <element label="Contract Duration" max_length="255" name="contract_duration" type="glide_duration"/>
+        <element label="Department/Team for New Role" max_length="32" name="department_team_for_new_role" reference="cmn_department" type="reference"/>
+        <element label="Duration of Posting" max_length="255" name="duration_of_posting" type="glide_duration"/>
+        <element choice="1" label="Employment Type" max_length="40" name="employment_type" type="choice">
+            <choice/>
+        </element>
+        <element label="Estimated Approval Date" max_length="255" name="estimated_approval_date" type="glide_date"/>
+        <element label="Executive Approval" max_length="32" name="executive_approval" reference="sys_user" type="reference"/>
+        <element label="Executive Approval Required" max_length="255" name="executive_approval_required" type="boolean"/>
+        <element label="Expected Impact" max_length="4000" name="expected_impact" type="string"/>
+        <element label="External Posting Platforms" max_length="1000" name="external_posting_platforms" type="string"/>
+        <element label="Finance Approval" max_length="32" name="finance_approval" reference="sys_user" type="reference"/>
+        <element label="Finance Approval Required" max_length="255" name="finance_approval_required" type="boolean"/>
+        <element label="HR Approval" max_length="32" name="hr_approval" reference="sys_user" type="reference"/>
+        <element label="HR Approval Required" max_length="255" name="hr_approval_required" type="boolean"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Manager Approval" max_length="32" name="manager_approval" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Overall Status" max_length="40" name="overall_status" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Positing Type" max_length="40" name="positing_type" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Possibility of Extension" max_length="40" name="possibility_of_extension" type="choice">
+            <choice/>
+        </element>
+        <element label="Preferred Start Date" max_length="255" name="preferred_start_date" type="glide_date"/>
+        <element label="Proposed Job Title" max_length="100" name="proposed_job_title" type="string"/>
+        <element choice="1" label="Reason for Hiring" max_length="40" name="reason_for_hiring" type="choice">
+            <choice/>
+        </element>
+        <element label="Replacing Employee" max_length="32" name="replacing_employee" reference="sys_user" type="reference"/>
+        <element label="Reporting To" max_length="32" name="reporting_to" reference="sys_user" type="reference"/>
+        <element label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element choice="1" label="Role Type" max_length="40" name="role_type" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Salary Currency" max_length="40" name="salary_currency" type="choice">
+            <choice/>
+        </element>
+        <element label="Salary Range Max" max_length="255" name="salary_range_max" type="integer"/>
+        <element label="Salary Range Min" max_length="255" name="salary_range_min" type="integer"/>
+        <element choice="1" label="Salary Range Per" max_length="40" name="salary_range_per" type="choice">
+            <choice/>
+        </element>
+        <element label="Specify Reason for Hiring" max_length="4000" name="specify_reason_for_hiring" type="string"/>
+        <element choice="1" label="Stage" max_length="40" name="stage" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Travel Requirements" max_length="40" name="travel_requirements" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Urgency" max_length="40" name="urgency" type="choice">
+            <choice/>
+        </element>
+        <element label="Work Hours" max_length="255" name="work_hours" type="glide_duration"/>
+        <index name="index">
+            <element name="department_team_for_new_role"/>
+        </index>
+        <index name="index2">
+            <element name="executive_approval"/>
+        </index>
+        <index name="index3">
+            <element name="finance_approval"/>
+        </index>
+        <index name="index4">
+            <element name="hr_approval"/>
+        </index>
+        <index name="index5">
+            <element name="location"/>
+        </index>
+        <index name="index6">
+            <element name="manager_approval"/>
+        </index>
+        <index name="index7">
+            <element name="replacing_employee"/>
+        </index>
+        <index name="index8">
+            <element name="reporting_to"/>
+        </index>
+        <index name="index9">
+            <element name="requestor"/>
+        </index>
     </element>
 </database>

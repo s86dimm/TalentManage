@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Justification for Hiring" section_id="fd4b68e297850210a711f6fce053af24" sys_domain="global" table="x_535429_talent_ma_hiring_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason_for_hiring</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>38a2bc6e97850210a711f6fce053afc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>30a2bc6e97850210a711f6fce053afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>38a2bc6e97850210a711f6fce053afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>specify_reason_for_hiring</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>30a2bc6e97850210a711f6fce053afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>38a2bc6e97850210a711f6fce053afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_impact</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>30a2bc6e97850210a711f6fce053afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_start_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>38a2bc6e97850210a711f6fce053afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>30a2bc6e97850210a711f6fce053afca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:36:31</sys_created_on>
+            <sys_id>38a2bc6e97850210a711f6fce053afca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Justification for Hiring" display_value="Justification for Hiring" name="x_535429_talent_ma_hiring_request" sys_domain="global" view="Default view">fd4b68e297850210a711f6fce053af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:36:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Justification for Hiring</caption>
+            <header>false</header>
+            <name>x_535429_talent_ma_hiring_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 19:04:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd4b68e297850210a711f6fce053af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_535429_talent_ma_hiring_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+            <sys_update_name>sys_ui_section_fd4b68e297850210a711f6fce053af24</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 19:04:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

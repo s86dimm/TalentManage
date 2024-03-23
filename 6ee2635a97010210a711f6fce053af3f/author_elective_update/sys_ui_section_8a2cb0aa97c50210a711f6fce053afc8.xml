@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="8a2cb0aa97c50210a711f6fce053afc8" sys_domain="global" table="x_535429_talent_ma_skills" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 20:18:07</sys_created_on>
+            <sys_id>562cb0aa97c50210a711f6fce053afe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 20:18:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sub_category</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 20:18:07</sys_created_on>
+            <sys_id>5e2cb0aa97c50210a711f6fce053afe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 20:18:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 20:18:07</sys_created_on>
+            <sys_id>562cb0aa97c50210a711f6fce053afe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 20:18:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 20:18:07</sys_created_on>
+            <sys_id>5e2cb0aa97c50210a711f6fce053afe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 20:18:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_535429_talent_ma_skills</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-22 20:18:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a2cb0aa97c50210a711f6fce053afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_535429_talent_ma_skills</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+            <sys_update_name>sys_ui_section_8a2cb0aa97c50210a711f6fce053afc8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-22 20:18:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</application>
+        <file_path/>
+        <instance_id>7550774d1b3af114ba5ceb9b2d4bcb1d</instance_id>
+        <instance_name>dev226364</instance_name>
+        <name>sys_ui_section_8a2cb0aa97c50210a711f6fce053afc8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="8a2cb0aa97c50210a711f6fce053afc8" sys_domain="global" table="x_535429_talent_ma_skills" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 20:18:07</sys_created_on><sys_id>562cb0aa97c50210a711f6fce053afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 20:18:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sub_category</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 20:18:07</sys_created_on><sys_id>5e2cb0aa97c50210a711f6fce053afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 20:18:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 20:18:07</sys_created_on><sys_id>562cb0aa97c50210a711f6fce053afe4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 20:18:07</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 20:18:07</sys_created_on><sys_id>5e2cb0aa97c50210a711f6fce053afe4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_skills" sys_domain="global" view="Default view">8a2cb0aa97c50210a711f6fce053afc8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 20:18:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_535429_talent_ma_skills</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 20:18:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8a2cb0aa97c50210a711f6fce053afc8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_535429_talent_ma_skills</sys_name><sys_overrides/><sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package><sys_policy/><sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope><sys_update_name>sys_ui_section_8a2cb0aa97c50210a711f6fce053afc8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 20:18:07</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-307680469</payload_hash>
+        <record_name>Skills</record_name>
+        <reverted_from/>
+        <source>315cd4ee97050210a711f6fce053afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 20:18:07</sys_created_on>
+        <sys_id>122cb0aa97c50210a711f6fce053afe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e67d04b510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 20:18:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>962cb0aa34c50210846840df5b0d06e6</update_guid>
+        <update_guid_history>962cb0aa34c50210846840df5b0d06e6:-307680469</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 20:21:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>495407be6d8e4dd0b21803750eb60a90</sys_id>
+        <sys_metadata>8a2cb0aa97c50210a711f6fce053afc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_parent display_value="">58bbf46a97c50210a711f6fce053afb9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_scope_delete display_value="">6b5211a331e645749ad8ca02981ee1e4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8a2cb0aa97c50210a711f6fce053afc8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8a2cb0aa97c50210a711f6fce053afc8">122cb0aa97c50210a711f6fce053afe7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 20:21:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
