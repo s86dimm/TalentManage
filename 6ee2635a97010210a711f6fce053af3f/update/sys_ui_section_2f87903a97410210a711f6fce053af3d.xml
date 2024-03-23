@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 4" section_id="2f87903a97410210a711f6fce053af3d" sys_domain="global" table="x_535429_talent_ma_job_application" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>about_myself</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:41</sys_created_on>
+            <sys_id>7b87903a97410210a711f6fce053af85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 4" display_value="New section 4" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">2f87903a97410210a711f6fce053af3d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 4</caption>
+            <header>false</header>
+            <name>x_535429_talent_ma_job_application</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f87903a97410210a711f6fce053af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_535429_talent_ma_job_application</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+            <sys_update_name>sys_ui_section_2f87903a97410210a711f6fce053af3d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

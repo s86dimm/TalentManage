@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>cf1b603297c10210a711f6fce053afcc</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>talent-hub</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:42:11</sys_created_on>
+        <sys_id>cb1b603297c10210a711f6fce053afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Talent Hub</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_update_name>sys_ux_page_registry_cb1b603297c10210a711f6fce053afcc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:42:11</sys_updated_on>
+        <title>Talent Hub</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</application>
+        <file_path/>
+        <instance_id>7550774d1b3af114ba5ceb9b2d4bcb1d</instance_id>
+        <instance_name>dev226364</instance_name>
+        <name>sys_ux_page_registry_cb1b603297c10210a711f6fce053afcc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>cf1b603297c10210a711f6fce053afcc</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>talent-hub</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-23 13:42:11</sys_created_on><sys_id>cb1b603297c10210a711f6fce053afcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Talent Hub</sys_name><sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package><sys_policy/><sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope><sys_update_name>sys_ux_page_registry_cb1b603297c10210a711f6fce053afcc</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-23 13:42:11</sys_updated_on><title>Talent Hub</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1193807365</payload_hash>
+        <record_name>Talent Hub</record_name>
+        <reverted_from/>
+        <source>173e183197010210a711f6fce053af75</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-20 10:11:57</sys_created_on>
+        <sys_id>c30f247697c10210a711f6fce053aff5</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e5b5899c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>830f24766fc102100424c4386ede65f5</update_guid>
+        <update_guid_history>830f24766fc102100424c4386ede65f5:-1193807365</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:59:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>5e958a612e61411ead4a1ccf96cc8599</sys_id>
+        <sys_metadata>cb1b603297c10210a711f6fce053afcc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Talent Hub</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_scope_delete display_value="">6b5211a331e645749ad8ca02981ee1e4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_cb1b603297c10210a711f6fce053afcc</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_cb1b603297c10210a711f6fce053afcc">c30f247697c10210a711f6fce053aff5</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:59:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

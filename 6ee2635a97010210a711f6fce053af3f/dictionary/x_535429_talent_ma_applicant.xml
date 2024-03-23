@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="608330ee97850210a711f6fce053af6d" label="Applicant" max_length="40" name="x_535429_talent_ma_applicant" type="collection">
         <element label="Current Location" max_length="32" name="current_location" reference="cmn_location" type="reference"/>
+        <element label="Display Name" max_length="150" name="display_name" type="string"/>
         <element label="Email" max_length="200" name="email" type="string"/>
         <element label="First Name" max_length="150" name="first_name" type="string"/>
+        <element label="Industry Experience" max_length="1024" name="industry_experience" reference="x_535429_talent_ma_choice" type="glide_list"/>
         <element label="Last Name" max_length="150" name="last_name" type="string"/>
         <element label="LinkedIn URL" max_length="1024" name="linkedin" type="url"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Phone" max_length="255" name="phone" type="phone_number_e164"/>
         <element label="Portfolio Website" max_length="1024" name="portfolio_website" type="url"/>
+        <element label="Preferred Job Types" max_length="32" name="preferred_job_types" reference="x_535429_talent_ma_choice" type="reference"/>
         <element label="Preferred work Locations" max_length="1024" name="preferred_work_locations" type="glide_list"/>
+        <element label="Primary Skills" max_length="1024" name="primary_skills" reference="x_535429_talent_ma_skill" type="glide_list"/>
+        <element label="Resume/CV" max_length="255" name="resume_cv" type="file_attachment"/>
         <index name="index">
             <element name="current_location"/>
+        </index>
+        <index name="index2">
+            <element name="preferred_job_types"/>
         </index>
     </element>
 </database>

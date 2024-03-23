@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d051d8fe97010210a711f6fce053af1c" label="Education" max_length="40" name="x_535429_talent_ma_education" type="collection">
+        <element label="Achievements" max_length="4000" name="achievements" type="string"/>
+        <element label="Applicant" mandatory="true" max_length="32" name="applicant" read_only="true" reference="x_535429_talent_ma_applicant" type="reference"/>
+        <element label="Degree" mandatory="true" max_length="32" name="degree" reference="x_535429_talent_ma_choice" type="reference"/>
+        <element label="End Date" max_length="255" name="end_date" type="glide_date"/>
+        <element label="Field of Study" mandatory="true" max_length="32" name="field_of_study" reference="x_535429_talent_ma_choice" type="reference"/>
+        <element label="GPA/Grade" max_length="40" name="gpa_grade" type="string"/>
+        <element label="Institution Name" mandatory="true" max_length="200" name="institution_name" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Start Date" mandatory="true" max_length="255" name="start_date" type="glide_date"/>
+        <index name="index">
+            <element name="applicant"/>
+        </index>
+        <index name="index2">
+            <element name="degree"/>
+        </index>
+        <index name="index3">
+            <element name="field_of_study"/>
+        </index>
+        <index name="index4">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

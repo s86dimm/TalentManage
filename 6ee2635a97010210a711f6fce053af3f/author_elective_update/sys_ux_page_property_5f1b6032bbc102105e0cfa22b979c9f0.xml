@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">cb1b603297c10210a711f6fce053afcc</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">db1ba032f6c10210e3ab1871e9eedf1d</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:42:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5f1b6032bbc102105e0cfa22b979c9f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_update_name>sys_ux_page_property_5f1b6032bbc102105e0cfa22b979c9f0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:42:10</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_535429_talent_ma.cb1b603297c10210a711f6fce053afcc.route.chrome_header.db1ba032f6c10210e3ab1871e9eedf1d</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</application>
+        <file_path/>
+        <instance_id>7550774d1b3af114ba5ceb9b2d4bcb1d</instance_id>
+        <instance_name>dev226364</instance_name>
+        <name>sys_ux_page_property_5f1b6032bbc102105e0cfa22b979c9f0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">cb1b603297c10210a711f6fce053afcc</page><required_translations>[]</required_translations><route display_value="Landing Page">db1ba032f6c10210e3ab1871e9eedf1d</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-23 13:42:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>5f1b6032bbc102105e0cfa22b979c9f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package><sys_policy/><sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope><sys_update_name>sys_ux_page_property_5f1b6032bbc102105e0cfa22b979c9f0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-23 13:42:10</sys_updated_on><type>json</type><unique_name>x_535429_talent_ma.cb1b603297c10210a711f6fce053afcc.route.chrome_header.db1ba032f6c10210e3ab1871e9eedf1d</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1678580226</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>173e183197010210a711f6fce053af75</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-20 10:11:57</sys_created_on>
+        <sys_id>cb0f647697c10210a711f6fce053af25</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e5b5899c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>8b0f647664c102102c9fd9ebbb0a2925</update_guid>
+        <update_guid_history>8b0f647664c102102c9fd9ebbb0a2925:-1678580226</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:59:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0c649546598a44049b0606a10e204489</sys_id>
+        <sys_metadata>5f1b6032bbc102105e0cfa22b979c9f0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_scope_delete display_value="">6b5211a331e645749ad8ca02981ee1e4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_5f1b6032bbc102105e0cfa22b979c9f0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_5f1b6032bbc102105e0cfa22b979c9f0">cb0f647697c10210a711f6fce053af25</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:59:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-22 20:08:48</sys_created_on>
+            <sys_created_on>2024-03-23 11:38:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a50ab0e697c50210a711f6fce053af1f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>85ce803e97010210a711f6fce053af97</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_535429_talent_ma_applicant" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">e90ab0e697c50210a711f6fce053af1b</sys_ui_form>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">a10ab0e697c50210a711f6fce053af1a</sys_ui_section>
+            <sys_ui_section caption="Professional Details" display_value="Professional Details" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">c1ce803e97010210a711f6fce053af94</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-22 20:08:48</sys_updated_on>
+            <sys_updated_on>2024-03-23 11:39:49</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
@@ -35,12 +35,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>210ab0e697c50210a711f6fce053af23</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_535429_talent_ma_applicant" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">e90ab0e697c50210a711f6fce053af1b</sys_ui_form>
             <sys_ui_section caption="Preferences and Interests" display_value="Preferences and Interests" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">610ab0e697c50210a711f6fce053af1b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-22 20:08:48</sys_updated_on>
+            <sys_updated_on>2024-03-23 11:39:49</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_535429_talent_ma_applicant</name>

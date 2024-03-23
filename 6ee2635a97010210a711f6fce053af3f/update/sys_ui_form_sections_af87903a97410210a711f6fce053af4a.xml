@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="af87903a97410210a711f6fce053af4a" sys_domain="global" table="x_535429_talent_ma_job_application" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f87903a97410210a711f6fce053af4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_535429_talent_ma_job_application" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">af87903a97410210a711f6fce053af4a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">e3f310f297410210a711f6fce053af58</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab87903a97410210a711f6fce053af4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_535429_talent_ma_job_application" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">af87903a97410210a711f6fce053af4a</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">e387903a97410210a711f6fce053af3b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2787903a97410210a711f6fce053af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_535429_talent_ma_job_application" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">af87903a97410210a711f6fce053af4a</sys_ui_form>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">e387903a97410210a711f6fce053af3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2387903a97410210a711f6fce053af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_535429_talent_ma_job_application" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">af87903a97410210a711f6fce053af4a</sys_ui_form>
+            <sys_ui_section caption="New section 3" display_value="New section 3" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">ef87903a97410210a711f6fce053af3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e787903a97410210a711f6fce053af66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_535429_talent_ma_job_application" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">af87903a97410210a711f6fce053af4a</sys_ui_form>
+            <sys_ui_section caption="New section 4" display_value="New section 4" name="x_535429_talent_ma_job_application" sys_domain="global" view="Default view">2f87903a97410210a711f6fce053af3d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_535429_talent_ma_job_application</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 12:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af87903a97410210a711f6fce053af4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_535429_talent_ma_job_application</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_af87903a97410210a711f6fce053af4a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 12:16:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="92e2dc7297410210a711f6fce053afe9" label="Documents" max_length="40" name="x_535429_talent_ma_documents" type="collection">
+        <element default="true" function_definition="true" label="Active" max_length="255" name="active" type="boolean"/>
+        <element label="Applicant" max_length="32" name="applicant" reference="x_535429_talent_ma_applicant" type="reference"/>
+        <element label="Document" max_length="255" name="document" type="file_attachment"/>
+        <element label="Record" max_length="255" name="record" type="document_id"/>
+        <element label="Table" max_length="80" name="table" type="table_name"/>
+        <index name="index">
+            <element name="applicant"/>
+        </index>
+        <index name="index2">
+            <element name="record"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="931ba0325ac102105a7f1884e05f5b27" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_535429_talent_ma">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-23 13:42:12</sys_created_on>
+            <sys_id>1b1ba0321dc102105c815e4071ba1527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="571ba032c2c1021013ca20f4c78c1e27">931ba0325ac102105a7f1884e05f5b27</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-23 13:42:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-23 13:42:12</sys_created_on>
+            <sys_id>db1ba032dbc1021082e0d48ddfe89a27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="571ba032c2c1021013ca20f4c78c1e27">931ba0325ac102105a7f1884e05f5b27</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-23 13:42:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-23 13:42:12</sys_created_on>
+            <sys_id>531ba0327ac10210710551f731461b26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="571ba032c2c1021013ca20f4c78c1e27">931ba0325ac102105a7f1884e05f5b27</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-23 13:42:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-23 13:42:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>931ba0325ac102105a7f1884e05f5b27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+            <sys_update_name>sys_ui_section_931ba0325ac102105a7f1884e05f5b27</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-23 13:42:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_535429_talent_ma)" name="custom_portal_settings_x_535429_talent_ma">571ba032c2c1021013ca20f4c78c1e27</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

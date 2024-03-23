@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c3f358f297410210a711f6fce053af39" label="Job Application" max_length="40" name="x_535429_talent_ma_job_application" type="collection">
+        <element label="About Myself" max_length="4000" name="about_myself" type="string"/>
+        <element label="Applicant" max_length="32" name="applicant" reference="x_535429_talent_ma_applicant" type="reference"/>
+        <element label="Education" max_length="1024" name="education" reference="x_535429_talent_ma_education" type="glide_list"/>
+        <element label="Job" max_length="32" name="job" reference="x_535429_talent_ma_hiring_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Resume/CV" max_length="255" name="resume_cv" type="file_attachment"/>
+        <element label="Work Experience" max_length="1024" name="work_experience" reference="x_535429_talent_ma_work_experience" type="glide_list"/>
+        <index name="index">
+            <element name="applicant"/>
+        </index>
+        <index name="index2">
+            <element name="job"/>
+        </index>
+    </element>
+</database>

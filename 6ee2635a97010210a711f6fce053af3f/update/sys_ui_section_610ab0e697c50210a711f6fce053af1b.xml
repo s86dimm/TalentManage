@@ -4,13 +4,13 @@
             <element>preferred_job_types</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-22 20:08:48</sys_created_on>
-            <sys_id>710ab0e697c50210a711f6fce053af67</sys_id>
+            <sys_created_on>2024-03-23 11:38:17</sys_created_on>
+            <sys_id>c1ce803e97010210a711f6fce053afbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Preferences and Interests" display_value="Preferences and Interests" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">610ab0e697c50210a711f6fce053af1b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-22 20:08:48</sys_updated_on>
+            <sys_updated_on>2024-03-23 11:38:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,15 +18,29 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-22 20:08:48</sys_created_on>
-            <sys_id>790ab0e697c50210a711f6fce053af67</sys_id>
+            <sys_created_on>2024-03-23 11:38:17</sys_created_on>
+            <sys_id>49ce803e97010210a711f6fce053afbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Preferences and Interests" display_value="Preferences and Interests" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">610ab0e697c50210a711f6fce053af1b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-22 20:08:48</sys_updated_on>
+            <sys_updated_on>2024-03-23 11:38:17</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_work_locations</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-23 11:38:17</sys_created_on>
+            <sys_id>cdce803e97010210a711f6fce053afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Preferences and Interests" display_value="Preferences and Interests" name="x_535429_talent_ma_applicant" sys_domain="global" view="Default view">610ab0e697c50210a711f6fce053af1b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-23 11:38:17</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Preferences and Interests</caption>

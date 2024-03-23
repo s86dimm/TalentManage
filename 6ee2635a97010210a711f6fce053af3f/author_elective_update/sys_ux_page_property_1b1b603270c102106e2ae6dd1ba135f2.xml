@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">cb1b603297c10210a711f6fce053afcc</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:42:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1b1b603270c102106e2ae6dd1ba135f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_update_name>sys_ux_page_property_1b1b603270c102106e2ae6dd1ba135f2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:42:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_535429_talent_ma.cb1b603297c10210a711f6fce053afcc.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</application>
+        <file_path/>
+        <instance_id>7550774d1b3af114ba5ceb9b2d4bcb1d</instance_id>
+        <instance_name>dev226364</instance_name>
+        <name>sys_ux_page_property_1b1b603270c102106e2ae6dd1ba135f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">cb1b603297c10210a711f6fce053afcc</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-23 13:42:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>1b1b603270c102106e2ae6dd1ba135f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package><sys_policy/><sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope><sys_update_name>sys_ux_page_property_1b1b603270c102106e2ae6dd1ba135f2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-23 13:42:09</sys_updated_on><type>json</type><unique_name>x_535429_talent_ma.cb1b603297c10210a711f6fce053afcc.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1793835763</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>173e183197010210a711f6fce053af75</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-20 10:11:57</sys_created_on>
+        <sys_id>430f647697c10210a711f6fce053af0e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e5b5899c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>030f64763fc102101d6a9829e38f170e</update_guid>
+        <update_guid_history>030f64763fc102101d6a9829e38f170e:1793835763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:59:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>27db4ccf86a6450096d2a3d0999c4000</sys_id>
+        <sys_metadata>1b1b603270c102106e2ae6dd1ba135f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_scope_delete display_value="">6b5211a331e645749ad8ca02981ee1e4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_1b1b603270c102106e2ae6dd1ba135f2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_1b1b603270c102106e2ae6dd1ba135f2">430f647697c10210a711f6fce053af0e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:59:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

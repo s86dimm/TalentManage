@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 13:42:16</sys_created_on>
+        <sys_id>dd2b643297c10210a711f6fce053af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.public</sys_name>
+        <sys_package display_value="Talent Manage" source="x_535429_talent_ma">6ee2635a97010210a711f6fce053af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Manage">6ee2635a97010210a711f6fce053af3f</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_dd2b643297c10210a711f6fce053af12</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 13:42:16</sys_updated_on>
+        <sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
